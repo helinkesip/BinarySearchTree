@@ -1,0 +1,5 @@
+﻿  BST.cpp
+C:\Users\lenovo\source\repos\BST\BST\BST.cpp(72,1): warning C4717: 'preorderDolas' : tüm denetim yollarında özyinelemelidir, işlev çalışma zamanı yığın taşmasına neden olacak
+C:\Users\lenovo\source\repos\BST\BST\BST.cpp(80,1): warning C4717: 'postorderDolas' : tüm denetim yollarında özyinelemelidir, işlev çalışma zamanı yığın taşmasına neden olacak
+C:\Users\lenovo\source\repos\BST\BST\BST.cpp(118,1): warning C4715: 'dugumSil': tüm denetim yolları değer döndürmez
+  BST.vcxproj -> C:\Users\lenovo\source\repos\BST\x64\Debug\BST.exe
